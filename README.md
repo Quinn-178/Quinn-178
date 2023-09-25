@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quintin!
 - 👀 I’m interested in programming and data science! 
-- 🌱 I’m currently learning Computer Science! 
+- 🌱 I’m currently learning Computer Science! (Specifically C!) 
 - 💞️ I’m looking to collaborate on small or individual projects. 
 - 📫 How to reach me @\_quincy\_ on Discord! 
 
